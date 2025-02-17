@@ -1,9 +1,9 @@
-### Hi there, I'm Sawera Yaseen! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+### Hi there, I'm Sawera Yaseen! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px">
 
 ---
 
 ### 🚀 About Me:
-- 🎓 Erasmus Mundus Master's student specializing in **Multiple Robots & Aerial Vehicles**.
+- 🎓 Erasmus Mundus Master's student specializing in **Aerial Vehicles & Multi-Robot Systems**.
 - 🤖 Passionate about **Robot Perception & ,Robot Path & Trajectory Planning**.
 - 📌 Interested in **Aerial Robotics**, **Deep learning** and **Computer Vision**.
 - 📚 Learning **Deep Learning** & **ROS2**.
@@ -34,8 +34,8 @@
 ---
 
 ### 🌍 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sawera-yaseen)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sawera.yaseen@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sawera-yaseen-7482bb1b6/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaseensawera5@gmail.com)
 
 ---
 
