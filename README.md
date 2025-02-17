@@ -10,6 +10,12 @@
 
 ---
 
+### 🌍 Connect with Me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sawera-yaseen-7482bb1b6/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaseensawera5@gmail.com)
+
+
+---
 ### 🛠️ Tech & Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
@@ -30,17 +36,10 @@
 
 </p>
 
-
----
-
-### 🌍 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sawera-yaseen-7482bb1b6/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yaseensawera5@gmail.com)
-
 ---
 
 ### 🏆 Fun Fact:
-_"Drones may fly high, but debugging them keeps me grounded!"_ 😆
+_**"Drones may fly high, but debugging them keeps me grounded!"**_ 😆
 
 
 <!---
