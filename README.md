@@ -4,7 +4,7 @@
 
 ### 🚀 About Me:
 - 🎓 Erasmus Mundus Master's student specializing in **Multiple Robots & Aerial Vehicles**.
-- 🤖 Passionate about **Aerial Robotics, Path & Trajectory Planning**.
+- 🤖 Passionate about **Robot Perception & ,Robot Path & Trajectory Planning**.
 - 📌 Interested in **Aerial Robotics**, **Deep learning** and **Computer Vision**.
 - 📚 Learning **Deep Learning** & **ROS2**.
 
