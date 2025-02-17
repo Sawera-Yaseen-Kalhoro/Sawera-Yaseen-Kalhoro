@@ -25,6 +25,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gazebo/gazebo-original.svg" alt="Gazebo" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/RVIZ_Logo.png" alt="RViz" width="40" height="40"/>
   <img src="https://www.staubli.com/pictures/content/marketing/SP7/staubli_logo.png" alt="Stäubli" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/RVIZ_Logo.png" alt="RViz" width="40" height="40"/>
+  <img src="https://www.staubli.com/pictures/content/marketing/SP7/staubli_logo.png" alt="Stäubli" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Yolo_logo_2016.png" alt="YOLO" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_Logo.png" alt="pandas" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit-learn_logo.svg" alt="scikit-learn" width="40" height="40"/>
+
 </p>
 
 
