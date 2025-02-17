@@ -1,9 +1,3 @@
-**Erasmus Mundus Master's Scholar in Intelligent Field Robotic Systems**
-- 👋 Hi, I’m @Sawera-Yaseen-Kalhoro
-- 👀 I’m interested in computer vision, deep learning, and aerial robotics.
-- 🌱 I’m currently learning ROS2 and Deep Learning.
-- 📫 Reach me through yaseensawera5@gmail.com
-
 ### Hi there, I'm Sawera Yaseen! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sawera-Yaseen&label=Profile%20Views&color=0e75b6&style=flat)
@@ -13,25 +7,16 @@
 ### 🚀 About Me:
 - 🎓 Erasmus Mundus Master's student specializing in **Multiple Robots & Aerial Vehicles**.
 - 🤖 Passionate about **Aerial Robotics, Path & Trajectory Planning**.
-- 💻 Currently using **Ubuntu** & **ROS Noetic**.
-- 📌 Interested in **deep learning for robotics** and **autonomous drone systems**.
-- 📚 Learning **Reinforcement Learning** & **Computer Vision**.
+- 📌 Interested in **Aerial Robotics**, **Deep learning** and **Computer Vision**.
+- 📚 Learning **Deep Learning** & **ROS2**.
 
 ---
 
 ### 🛠️ Tech & Tools:
 - **Programming Languages**: Python, C++
-- **Frameworks/Libraries**: PyTorch, OpenCV, ROS
-- **Tools**: Git, Linux, Docker, MATLAB, Gazebo
+- **Frameworks/Libraries**: PyTorch, Tensorflow OpenCV, ROS, ROS2
+- **Tools**: Git, Linux, Docker, MATLAB, Gazebo, RViz, Stäubli
 - **ML/DL Models**: YOLO, SVM, CNNs
-
----
-
-### 📈 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sawera-Yaseen&show_icons=true&theme=tokyonight" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sawera-Yaseen&theme=tokyonight" width="49%">
-</p>
 
 ---
 
