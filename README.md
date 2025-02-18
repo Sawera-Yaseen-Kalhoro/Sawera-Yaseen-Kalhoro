@@ -29,9 +29,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gazebo/gazebo-original.svg" alt="Gazebo" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/BehaviorTree/BehaviorTree.CPP/master/docs/logo.png" alt="Behavior Tree" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/>
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://github.com/Sawera-Yaseen-Kalhoro/Sawera-Yaseen-Kalhoro/blob/main/bt.png?raw=true" alt="Behavior Tree" width="40" height="40"/>
+  <img src="https://github.com/Sawera-Yaseen-Kalhoro/Sawera-Yaseen-Kalhoro/blob/main/rviz.png?raw=true" alt="RViz" width="40" height="40"/>
+  <img src="https://github.com/Sawera-Yaseen-Kalhoro/Sawera-Yaseen-Kalhoro/blob/main/staubli-logo.png?raw=true" alt="Stäubli" width="40" height="40"/>
+  <img src="https://github.com/Sawera-Yaseen-Kalhoro/Sawera-Yaseen-Kalhoro/blob/main/stonefish.png?raw=true" alt="Stonefish" width="40" height="40"/>
+
 
 </p>
 
