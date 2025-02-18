@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gazebo/gazebo-original.svg" alt="Gazebo" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/RVIZ_Logo.png" alt="RViz" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="RViz" width="40" height="40"/>
   <img src="https://www.staubli.com/pictures/content/marketing/SP7/staubli_logo.png" alt="Stäubli" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/>
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="40" height="40"/>
