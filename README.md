@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gazebo/gazebo-original.svg" alt="Gazebo" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/your-username/repository/main/staubli.png" alt="Stäubli" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/BehaviorTree/BehaviorTree.CPP/master/docs/logo.png" alt="Behavior Tree" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/>
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="scikit-learn" width="40" height="40"/>
 
