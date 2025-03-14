@@ -41,8 +41,6 @@
 
 ---
 
-### 🏆 Fun Fact:
-_**"Drones may fly high, but debugging them keeps me grounded!"**_ 😆
 
 
 <!---
